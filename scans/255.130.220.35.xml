@@ -1,2 +1,0 @@
-# Nmap 7.01 scan initiated Wed Sep  2 14:02:47 2020 as: nmap -oG scans/255.130.220.35.xml -p25,3128,80,8080,8123,8181,8888,9999 --open 255.130.220.35
-# Nmap done at Wed Sep  2 14:02:49 2020 -- 1 IP address (0 hosts up) scanned in 2.26 seconds

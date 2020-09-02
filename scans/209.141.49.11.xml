@@ -1,4 +1,0 @@
-# Nmap 7.01 scan initiated Wed Sep  2 14:02:57 2020 as: nmap -oG scans/209.141.49.11.xml -p25,3128,80,8080,8123,8181,8888,9999 --open 209.141.49.11
-Host: 209.141.49.11 ()	Status: Up
-Host: 209.141.49.11 ()	Ports: 8080/open/tcp//http-proxy///
-# Nmap done at Wed Sep  2 14:03:00 2020 -- 1 IP address (1 host up) scanned in 3.11 seconds

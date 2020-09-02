@@ -1,4 +1,0 @@
-# Nmap 7.01 scan initiated Wed Sep  2 14:02:06 2020 as: nmap -oG scans/50.201.51.216.xml -p25,3128,80,8080,8123,8181,8888,9999 --open 50.201.51.216
-Host: 50.201.51.216 (50-201-51-216-static.hfc.comcastbusiness.net)	Status: Up
-Host: 50.201.51.216 (50-201-51-216-static.hfc.comcastbusiness.net)	Ports: 80/open/tcp//http///
-# Nmap done at Wed Sep  2 14:02:08 2020 -- 1 IP address (1 host up) scanned in 2.16 seconds

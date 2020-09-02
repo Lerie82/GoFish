@@ -1,2 +1,0 @@
-# Nmap 7.01 scan initiated Wed Sep  2 14:02:19 2020 as: nmap -oG scans/35.169.156.54.xml -p25,3128,80,8080,8123,8181,8888,9999 --open 35.169.156.54
-# Nmap done at Wed Sep  2 14:02:22 2020 -- 1 IP address (0 hosts up) scanned in 3.13 seconds

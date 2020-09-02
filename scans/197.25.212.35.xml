@@ -1,4 +1,0 @@
-# Nmap 7.01 scan initiated Wed Sep  2 14:03:02 2020 as: nmap -oG scans/197.25.212.35.xml -p25,3128,80,8080,8123,8181,8888,9999 --open 197.25.212.35
-Host: 197.25.212.35 ()	Status: Up
-Host: 197.25.212.35 ()	Ports: 80/open/tcp//http///	Ignored State: filtered (7)
-# Nmap done at Wed Sep  2 14:03:06 2020 -- 1 IP address (1 host up) scanned in 4.32 seconds
