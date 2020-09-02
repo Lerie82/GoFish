@@ -1,0 +1,2 @@
+# Nmap 7.01 scan initiated Wed Sep  2 10:24:27 2020 as: nmap -oG scans/198.98.56.71.xml -p2020,25,3128,80,8080,8123,88,8888 --open 198.98.56.71
+# Nmap done at Wed Sep  2 10:24:30 2020 -- 1 IP address (0 hosts up) scanned in 3.11 seconds

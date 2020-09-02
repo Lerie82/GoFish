@@ -1,0 +1,4 @@
+# Nmap 7.01 scan initiated Wed Sep  2 10:24:33 2020 as: nmap -oG scans/104.244.75.26.xml -p2020,25,3128,80,8080,8123,88,8888 --open 104.244.75.26
+Host: 104.244.75.26 ()	Status: Up
+Host: 104.244.75.26 ()	Ports: 8080/open/tcp//http-proxy///
+# Nmap done at Wed Sep  2 10:24:36 2020 -- 1 IP address (1 host up) scanned in 4.02 seconds
