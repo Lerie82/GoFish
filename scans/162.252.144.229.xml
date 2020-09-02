@@ -1,3 +1,2 @@
-# Nmap 7.01 scan initiated Wed Sep  2 10:14:40 2020 as: nmap -vv -oG scans/162.252.144.229.xml -p2020,25,3128,80,8080,8123,8181,88,8888,9999 --open 162.252.144.229
-# Ports scanned: TCP(10;25,80,88,2020,3128,8080,8123,8181,8888,9999) UDP(0;) SCTP(0;) PROTOCOLS(0;)
-# Nmap done at Wed Sep  2 10:14:41 2020 -- 1 IP address (1 host up) scanned in 1.93 seconds
+# Nmap 7.01 scan initiated Wed Sep  2 14:02:17 2020 as: nmap -oG scans/162.252.144.229.xml -p25,3128,80,8080,8123,8181,8888,9999 --open 162.252.144.229
+# Nmap done at Wed Sep  2 14:02:18 2020 -- 1 IP address (1 host up) scanned in 1.96 seconds

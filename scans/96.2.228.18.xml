@@ -1,0 +1,4 @@
+# Nmap 7.01 scan initiated Wed Sep  2 14:02:28 2020 as: nmap -oG scans/96.2.228.18.xml -p25,3128,80,8080,8123,8181,8888,9999 --open 96.2.228.18
+Host: 96.2.228.18 (96-2-228-18-static.midco.net)	Status: Up
+Host: 96.2.228.18 (96-2-228-18-static.midco.net)	Ports: 80/open/tcp//http///
+# Nmap done at Wed Sep  2 14:02:31 2020 -- 1 IP address (1 host up) scanned in 2.51 seconds
