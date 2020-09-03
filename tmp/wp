@@ -1,9 +1,0 @@
-# Nmap 7.01 scan initiated Wed Sep  2 21:20:40 2020 as: nmap --open -oG - -p80 -iR 200
-Host: 90.138.173.151 (m90-138-173-151.cust.tele2.lt)	Status: Up
-Host: 90.138.173.151 (m90-138-173-151.cust.tele2.lt)	Ports: 80/open/tcp//http///
-Host: 173.223.87.224 (a173-223-87-224.deploy.static.akamaitechnologies.com)	Status: Up
-Host: 173.223.87.224 (a173-223-87-224.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///
-Host: 23.42.249.137 (a23-42-249-137.deploy.static.akamaitechnologies.com)	Status: Up
-Host: 23.42.249.137 (a23-42-249-137.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///
-# Nmap done at Wed Sep  2 21:21:53 2020 -- 237 IP addresses (37 hosts up) scanned in 73.71 seconds
-# Nmap 7.01 scan initiated Wed Sep  2 21:22:28 2020 as: nmap --open -oG - -p80 -iR 200
