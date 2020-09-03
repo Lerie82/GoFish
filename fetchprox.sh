@@ -26,5 +26,5 @@ cat tmp/proxyslist |grep -Eo "[[:digit:]]{1,3}\.[[:digit:]]{1,3}\.[[:digit:]]{1,
 echo -e "${YLW}[${RED}-${YLW}]${NC} sorting, removing dupes"
 sort -u tmp/proxylist >tmp/proxylist0
 
-echo -e "${YLW}[${WHT}=${YLW}]${NC} cleaning up"
 mv tmp/proxylist0 tmp/proxylist
+echo -e "${YLW}[${WHT}=${YLW}]${NC} cleaning up"
