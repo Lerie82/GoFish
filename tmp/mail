@@ -1,0 +1,4 @@
+
+; <<>> DiG 9.10.3-P4-Ubuntu <<>> -x 103.196.234.209 MX +short
+;; global options: +cmd
+;; connection timed out; no servers could be reached
